@@ -6,9 +6,9 @@ I am DevOps Engineer(SRE) experienced in Services Reliability Engineering and So
 
 - 🔭 I’m currently working on ...
 
-  Deployments and Support (AWS, GCP, CI/CD, GitOps/ Dev Productivity, Logging, Monitoring, Provisioning, Secrets Management, Config Management)
-  Operations automation (Terraform, Ansible, Jenkins, Packer, Linux, Docker )
-  Other Tools and Platforms (ElasticSearch(ELK), Mysql, Redis, RabbitMQ, Nodejs Microservices, Java and GO)
+  - Deployments and Support (AWS, GCP, CI/CD, GitOps/ Dev Productivity, Logging, Monitoring, Provisioning, Secrets Management, Config Management)
+  - Operations automation (Terraform, Ansible, Jenkins, Packer, Linux, Docker )
+  - Other Tools and Platforms (ElasticSearch(ELK), Mysql, Redis, RabbitMQ, Nodejs Microservices, Java and GO)
 
 - 📫 How to reach me: ...
   
