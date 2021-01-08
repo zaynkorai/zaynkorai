@@ -11,7 +11,8 @@ I am DevOps Engineer(SRE) experienced in Services Reliability Engineering and So
   Other Tools and Platforms (ElasticSearch(ELK), Mysql, Redis, RabbitMQ, Nodejs Microservices, Java and GO)
 
 - 📫 How to reach me: ...
-  👨 [Linkedin](https://www.linkedin.com/in/zayn-ul-abdin-b0b576b1/)
+  
+  👨 [Linkedin](https://www.linkedin.com/in/zayn-ul-abdin-b0b576b1/)   ✉️ [Gmail](zaynulabdin313@gmail.com)
 
 <!--
 **zaynkorai/zaynkorai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
