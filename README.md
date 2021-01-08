@@ -1,5 +1,18 @@
 ### Hi there 👋
 
+#### Gald to see you here!
+
+I am DevOps Engineer(SRE) experienced in Services Reliability Engineering and Software Development. Passionate about Systems Reliability, Infrastructure automation, DevOps and Scalable architectures. Always have a keen interestautomating boring stuff.
+
+- 🔭 I’m currently working on ...
+
+  Deployments and Support (AWS, GCP, CI/CD, GitOps/ Dev Productivity, Logging, Monitoring, Provisioning, Secrets Management, Config Management)
+  Operations automation (Terraform, Ansible, Jenkins, Packer, Linux, Docker )
+  Other Tools and Platforms (ElasticSearch(ELK), Mysql, Redis, RabbitMQ, Nodejs Microservices, Java and GO)
+
+- 📫 How to reach me: ...
+  👨 [Linkedin](https://www.linkedin.com/in/zayn-ul-abdin-b0b576b1/)
+
 <!--
 **zaynkorai/zaynkorai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
