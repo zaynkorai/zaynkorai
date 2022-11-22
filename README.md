@@ -2,7 +2,7 @@
 
 #### Gald to see you here!
 
-I am experienced in Software Development and Site Reliability Engineering. Passionate about Development, Systems Reliability, Infrastructure automation, DevOps and Scalable architectures. Always have a keen interestautomating boring stuff.
+I am experienced in Software Development(Golang) and Site Reliability Engineering. Passionate about Development, Systems Reliability, Infrastructure automation, DevOps and Scalable architectures. Always have a keen interestautomating boring stuff.
 
 
 - 🔭 I’m currently working on ...
