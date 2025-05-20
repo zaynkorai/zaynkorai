@@ -11,11 +11,14 @@ Industry: Cloud Software Engineering Building backend and tools for Internal Clo
 
 Past Industry: Contactless Payments 
 
-As Software Engineering Consultant at MagicCube USA 2021-2023
+As Software Engineering Consultant at MagicCube USA 2021-2023. 
+
 Designing and developing easy to use, robust, and concise RESTful API for smartphone terminals using Golang.
 Skills: Jenkins · Systems Design · FinTech · Go (Programming Language) · MongoDB
 
-Sudo Consultants, UAE 2021- currenlt
+Sudo Consultants, UAE 2021- current
+
+
 Software Engineering
 Building backend for Internal Cloud Automation, which helps to manage and automate day to day cloud management and eliminates toil by 60%.
 Golang, Postgres, Mongo, Redis, APache Kafka
